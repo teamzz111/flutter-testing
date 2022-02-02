@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
             Center(
               child: Container(
               decoration: const BoxDecoration(
-                color: Colors.black45,
+                color: Color.fromARGB(115, 169, 169, 169),
               ),
               child: const Text(
                 'Ay papá un poio',
